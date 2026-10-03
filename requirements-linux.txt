@@ -1,0 +1,9 @@
+# Linux release: CARLA 0.9.16 / Python 3.12
+numpy==1.26.4
+scipy==1.13.1
+opencv-contrib-python==4.10.0.84
+psutil==6.1.1
+PyYAML==6.0.2
+Pillow>=10.0,<12
+ultralytics==8.3.0
+carla==0.9.16

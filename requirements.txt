@@ -1,0 +1,10 @@
+# Common source dependencies. For a complete platform setup use:
+#   Windows: setup_live_carla_env.bat
+#   Linux:   ./setup_live_carla_env.sh
+numpy
+scipy
+opencv-contrib-python
+psutil
+PyYAML
+Pillow
+ultralytics
