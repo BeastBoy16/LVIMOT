@@ -1,0 +1,11 @@
+kitti_root: "~/datasets/KITTI/tracking"
+
+detection_root: "~/catkin_ws/src/LVIMOT/data/pointrcnn_Car_val"
+
+sequence: "0001"
+
+camera: "image_02"
+
+frame: 0
+
+output_dir: "outputs"
